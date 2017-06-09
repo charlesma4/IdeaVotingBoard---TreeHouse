@@ -10,7 +10,7 @@ public class SimpleCourseIdeaDAO implements CourseIdeaDAO{
     private List<CourseIdea> ideas;
 
     public SimpleCourseIdeaDAO() {
-        ideas = new ArrayList<>;
+        ideas = new ArrayList<>();
     }
 
     @Override
